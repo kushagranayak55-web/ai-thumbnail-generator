@@ -1,0 +1,5 @@
+db = created
+if db = true
+print("database createed')
+else 
+print("No database")
